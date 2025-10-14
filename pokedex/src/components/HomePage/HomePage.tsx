@@ -1,5 +1,6 @@
 import styles from './HomePage.module.css';
 
+
 const HomePage = () => {
   return (
     <main>
@@ -14,6 +15,7 @@ const HomePage = () => {
             Your journey to discover them all begins now!
         </p>
     </main>
+    
   );
 };
 
