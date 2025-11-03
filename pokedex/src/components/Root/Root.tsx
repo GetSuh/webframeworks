@@ -5,7 +5,7 @@ const Root = () => {
   return (
     <>
       <header>
-        <nav className='styles.topnavigation'>
+        <nav className={styles.topnavigation}>
           <ul>
             <li>Home</li>
             <li>Pokemon</li>
