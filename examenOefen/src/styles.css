@@ -1,0 +1,6 @@
+:root { font-family: system-ui, sans-serif; }
+.container { max-width: 960px; margin: 0 auto; padding: 1rem; }
+.nav { display: flex; gap: .75rem; flex-wrap: wrap; margin-bottom: 1rem; }
+.link { padding: .5rem .75rem; border-radius: .5rem; text-decoration: none; color: #1f2937; background: #f3f4f6; }
+.link.active { background: #1f6feb; color: white; }
+.content { padding: 1rem; border: 1px solid #e5e7eb; border-radius: .75rem; background: white; }
